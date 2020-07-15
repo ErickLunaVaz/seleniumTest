@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51013e8f-cc46-49bd-918a-038d1793f5a5" name="Default Changelist" comment="" />
+    <list default="true" id="51013e8f-cc46-49bd-918a-038d1793f5a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ImplicitWait/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/main/java/SeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebForm/WebForm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebForm/src/test/java/WebForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplicitWait/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ImplicitWait/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumTest/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +25,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1eh4eTqFdH8qFuCxpywwrlXi7Eq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
